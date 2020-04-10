@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lisa McEwen"
-  avatar           : "_images/pic.jpeg"
+  avatar           : "pic.jpeg"
   bio              : "Clinical Data Consultant. Big fan/nerd of R & RStudio - love using it, teaching it, and talking about it."
   location         : "Victoria, BC"
   employer         :
