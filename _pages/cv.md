@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Here is a PDF version of my
-CV](https://github.com/lmcewen/lmcewen.github.io/blob/master/files/McEwen_CV_NOV2019.pdf)
+<li><a href="McEwen_CV_NOV2019.pdf", target='_blank'>Here is a PDF version of my
+CV</a></li>
+
+
 (Last updated on Nov. 2019)
   
