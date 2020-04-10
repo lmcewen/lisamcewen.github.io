@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Lisa M. McEwen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Hello! I am Clinical Data Consultant for our regional Health Authority. I analyze clinical information extracted from electronic health records to inform decision making. Big fan of coding with R in RStudio."
+  location         : "Victoria, BC"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=lisa+m+mcewen"
   googlescholar    : "http://yourfullgooglescholarurl.com"
