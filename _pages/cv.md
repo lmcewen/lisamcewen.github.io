@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in Microbiology, University of Victoria, 2013
+* Ph.D in Medical Genetics, University of British Columbia, 2018 
 
 Work experience
 ======
@@ -29,12 +28,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding/Programming
+  * R/RStudio (7 years)
+  * SQL (2 years)
+  * CCL (2 years)
+  * Python (1 year)
+  * Shell (1 year)
+* 
 
 Publications
 ======
