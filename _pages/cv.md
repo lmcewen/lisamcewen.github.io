@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-<a href="McEwen_CV_NOV2019.pdf", target='_blank'>Here is a PDF version of my CV</a> (Last updated on Nov. 2019)
+<a href="http://github.com/lmcewen/lmcewen.github.io/blob/master/files/McEwen_CV_NOV2019.pdf", target='_blank'>Here is my update CV</a>
+
+(Last updated on Nov. 2019)
   
