@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 
+Hello! 
 
 I am Lisa, a Clinical Data Consultant currently working with the [Vancouver Island Health Authority](https://www.islandhealth.ca/). My roles involves analyzing clinical information extracted from electronic health records to inform decision making. I primarily use SQL to query a data warehouse and analyze/visualize the data in RStudio. I have also recently been appointed as a Adjunct Assistant Professor in [Health Information Science](https://www.uvic.ca/hsd/hinf/index.php) at the [University of Victoria](https://www.uvic.ca/). I am very much interested in using clinical data to provide meaningful insights that can contribute to better patient care. 
 
