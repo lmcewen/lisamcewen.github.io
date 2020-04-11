@@ -62,7 +62,7 @@ Rep. (1):12123.
 
 - **McEwen LM**, O'Donnell JC, Lifoawing L, Matias D, Wagar B. (2019). [Electronic Physician Profiles: Developing an Interactive Web-Based Report for Physicians at Island Health](https://www.ncbi.nlm.nih.gov/pubmed/30741215). Stud Health Technol Inform. 257:310-313.
 
-- McEwen LM, Goodman SJ, Kobor MS, Jones MJ. 2017. [The DNA Methylome: An Interface Between the Environment, Immunity, and Ageing](https://link.springer.com/chapter/10.1007/978-3-319-43365-3_3). The Ageing Immune System and Health. 35-52.
+- **McEwen LM**, Goodman SJ, Kobor MS, Jones MJ. 2017. [The DNA Methylome: An Interface Between the Environment, Immunity, and Ageing](https://link.springer.com/chapter/10.1007/978-3-319-43365-3_3). The Ageing Immune System and Health. 35-52.
 
 
 You can also find my articles on <u><a href="https://scholar.google.ca/citations?user=nZTIGnoAAAAJ&hl=en">my Google Scholar profile</a>.</u>
