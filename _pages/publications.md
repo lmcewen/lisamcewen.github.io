@@ -7,31 +7,29 @@ author_profile: true
 
 ## Peer-reviewed - Major Contributions 
 
-- **LM McEwen**, KJ O’Donnell, MG McGill, RE Edgar, MJ Jones, JL MacIsaac, DTS Lin, KE Ramadori, AM Morin, N Gladish, E Garg, E Unternaehrer, I Pokhvisneva, N Karnani, MZL Kee, T Klengel, NE Adler, RG Barr, N Letourneau, GF Giesbrecht, JN Reynolds, D Czmara, JM Armstrong, MJ Essex, C de Weerth, R Beijers, MS Tollenaar, B Bradley, T Jovanovic, KJ Ressler, M Steiner, S Entringer, PD Wadhwa, C Buss, NR Bush, EB Binder, WT Boyce, MJ Meaney, S Horvath, MS Kobor. (2019). The PedBE clock estimates DNA methylation age in pediatric buccal cells. Proc Natl Acad Sci U S A. 2019 Oct 14. pii: 201820843. doi: 10.1073/pnas.1820843116. 
+- **LM McEwen**, KJ O’Donnell, MG McGill, RE Edgar, MJ Jones, JL MacIsaac, DTS Lin, KE Ramadori, AM Morin, N Gladish, E Garg, E Unternaehrer, I Pokhvisneva, N Karnani, MZL Kee, T Klengel, NE Adler, RG Barr, N Letourneau, GF Giesbrecht, JN Reynolds, D Czmara, JM Armstrong, MJ Essex, C de Weerth, R Beijers, MS Tollenaar, B Bradley, T Jovanovic, KJ Ressler, M Steiner, S Entringer, PD Wadhwa, C Buss, NR Bush, EB Binder, WT Boyce, MJ Meaney, S Horvath, MS Kobor. (2019). [The PedBE clock estimates DNA methylation age in pediatric buccal cells](https://www.pnas.org/content/early/2019/10/09/1820843116). Proc Natl Acad Sci U S A. 2019 Oct 14. pii: 201820843. doi: 10.1073/pnas.1820843116. 
    
-- **LM McEwen**, MJ Jones, DTS Lin, RD Edgar, LT Husquin, JL MacIsaac, KE Ramadori, AM Morin, CF Rider, C Carlsten, L Quintana-Murci, S Horvath, MS Kobor. (2018). Systematic evaluation of DNA methylation age estimation with common preprocessing methods and the Infinium MethylationEPIC BeadChip array. Clinical Epigenetics.10(1):123.
+- **LM McEwen**, MJ Jones, DTS Lin, RD Edgar, LT Husquin, JL MacIsaac, KE Ramadori, AM Morin, CF Rider, C Carlsten, L Quintana-Murci, S Horvath, MS Kobor. (2018). [Systematic evaluation of DNA methylation age estimation with common preprocessing methods and the Infinium MethylationEPIC BeadChip array](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-018-0556-2). Clinical Epigenetics.10(1):123.
    
 - **LM McEwen**, AM Morin, RD Edgar, JL MacIsaac, MJ Jones, WH Dow, L Rosero-Bixby, MS Kobor, DH
-Rehkopf. (2017). Differential DNA methylation and lymphocyte proportions in a Costa Rican high
-longevity region. Epigenetics and Chromatin.10:21.
+Rehkopf. (2017). [Differential DNA methylation and lymphocyte proportions in a Costa Rican high
+longevity region](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-017-0128-2). Epigenetics and Chromatin.10:21.
    
-- **LM McEwen**, MJ Jones, DTS Lin, RD Edgar, LT Husquin, JL MacIsaac, KE Ramadori, AM Morin, CF Rider, C Carlsten, L Quintana-Murci, S Horvath, MS Kobor. (2018). Systematic evaluation of DNA methylation age estimation with common preprocessing methods and the Infinium MethylationEPIC BeadChip array. Clin Epigenetics.10(1):123.
+- **LM McEwen**, EG Gatev, MJ Jones, JL MacIsaac, MM McAllister, R Goulding, KM Madden, MG Dawes, MS Kobor, MC Ashe. (2017). [Epigenetic signatures from a lifestyle intervention for women at midlife: A Pilot RCT](http://www.nrcresearchpress.com/doi/full/10.1139/apnm-2017-0436?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed). APMN.43(3):233-239</li>
    
-- **LM McEwen**, EG Gatev, MJ Jones, JL MacIsaac, MM McAllister, R Goulding, KM Madden, MG Dawes, MS Kobor, MC Ashe. (2017). Epigenetic signatures from a lifestyle intervention for women at midlife: A Pilot RCT. APMN.43(3):233-239</li>
-   
-- P Verschoor, **LM McEwen**, MS Kobor, MB Loeb, DME Bowdish. (2018). DNA methylation patterns are related to co-morbidity status and circulating C-reactive protein levels in the nursing home elderly.
+- P Verschoor, **LM McEwen**, MS Kobor, MB Loeb, DME Bowdish. (2018). [DNA methylation patterns are related to co-morbidity status and circulating C-reactive protein levels in the nursing home elderly](https://linkinghub.elsevier.com/retrieve/pii/S0531-5565(17)30513-2).
 Exp Gerontol.105:47-52. 
   
-- SR Moore, **LM McEwen**, J Quirt, A Morin, SM Mah, RG Barr, WT Boyce, MS Kobor. Epigenetic correlates of neonatal contact in humans. (2017). Dev Psychopathol.
+- SR Moore, **LM McEwen**, J Quirt, A Morin, SM Mah, RG Barr, WT Boyce, MS Kobor. [Epigenetic correlates of neonatal contact in humans](https://www.cambridge.org/core/product/identifier/S0954579417001213/type/journal_article). (2017). Dev Psychopathol.
 
-- CP Verschoor, **LM McEwen**, V Kohli, C Wolfson C, DME Bowdish, P Raina, MS Kobor MS, C Balion. (2017). The relation between DNA methylation patterns and serum cytokine levels in communitydwelling adults: a preliminary study. BMC Genetics.18(1):57
+- CP Verschoor, **LM McEwen**, V Kohli, C Wolfson C, DME Bowdish, P Raina, MS Kobor MS, C Balion. (2017). [The relation between DNA methylation patterns and serum cytokine levels in communitydwelling adults: a preliminary study](https://bmcgenet.biomedcentral.com/articles/10.1186/s12863-017-0525-3). BMC Genetics.18(1):57
 
-- CS Mang, LM McEwen, JL MacIsaac, NH Snow, KL Campbell, MS Kobor, CJD Ross, LA Boyd.
-Exploring genetic influences underlying acute aerobic exercise effects on motor learning. (2017). Sci
+- CS Mang, **LM McEwen**, JL MacIsaac, NH Snow, KL Campbell, MS Kobor, CJD Ross, LA Boyd.
+[Exploring genetic influences underlying acute aerobic exercise effects on motor learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5608967/). (2017). Sci
 Rep. (1):12123.
 
-- AK Beery, **LM McEwen**, JL MacIsaac, DD Francis, MS Kobor. (2015). Natural variation in maternal
-  care and cross-tissue patterns of oxytocin receptor gene methylation in rats. Hormones and Behavior.</li>
+- AK Beery, **LM McEwen**, JL MacIsaac, DD Francis, MS Kobor. (2015). [Natural variation in maternal
+  care and cross-tissue patterns of oxytocin receptor gene methylation in rats](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691570/). Hormones and Behavior.</li>
 77:42-52.
 
 
