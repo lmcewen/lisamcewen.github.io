@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-reviewed - Major Contributions 
+## Major Contributions 
 
 - **LM McEwen**, KJ O’Donnell, MG McGill, RE Edgar, MJ Jones, JL MacIsaac, DTS Lin, KE Ramadori, AM Morin, N Gladish, E Garg, E Unternaehrer, I Pokhvisneva, N Karnani, MZL Kee, T Klengel, NE Adler, RG Barr, N Letourneau, GF Giesbrecht, JN Reynolds, D Czmara, JM Armstrong, MJ Essex, C de Weerth, R Beijers, MS Tollenaar, B Bradley, T Jovanovic, KJ Ressler, M Steiner, S Entringer, PD Wadhwa, C Buss, NR Bush, EB Binder, WT Boyce, MJ Meaney, S Horvath, MS Kobor. (2019). [The PedBE clock estimates DNA methylation age in pediatric buccal cells](https://www.pnas.org/content/early/2019/10/09/1820843116). Proc Natl Acad Sci U S A. 2019 Oct 14. pii: 201820843. doi: 10.1073/pnas.1820843116. 
    
@@ -33,7 +33,7 @@ Rep. (1):12123.
 77:42-52.
 
 
-## Peer-reviewed - Co-authored Contributions:
+## Co-authored Contributions:
 
 - SA Hari Dass, K McCracken, I Pokhvisneva, LM Chen, E Garg, TTT Nguyen, Z Wang, B Barth, M Yaqubi, **LM McEwen**, JL MacIsaac, J Diorio, MS Kobor, KJ O'Donnell, MJ Meaney, PP Silveira. (2019). A biologically-informed polygenic score identifies endophenotypes and clinical conditions associated with the insulin receptor function on specific brain regions. EBioMedicine. 42:188-202.
   
@@ -56,5 +56,13 @@ Rep. (1):12123.
 - M Morin, E Gatev, **LM McEwen**, JL MacIsaac, DTS Lin, N Koen, D Czamara, K Räikkönen, HJ Zar, K Koenen, DJ Stein, MS Kobor, M Jones. (2017). Maternal blood contamination of collected cord blood can be identified using DNA methylation at three CpGs. Clinical Epigenetics.9:75. 
 
 - S Gopalan, O Carja, M Fagny, E Patin, JW Myrick, **LM McEwen**, SM Mah, MS Kobor, A Froment, MW Feldman, L Quintana-Murci, BM Henn. (2017). Trends in DNA methylation with age replicate across diverse human populations. Genetics. 206(3):1659-1674. 
+
+
+## Abstracts & Book Chapters:
+
+- **McEwen LM**, O'Donnell JC, Lifoawing L, Matias D, Wagar B. (2019). [Electronic Physician Profiles: Developing an Interactive Web-Based Report for Physicians at Island Health](https://www.ncbi.nlm.nih.gov/pubmed/30741215). Stud Health Technol Inform. 257:310-313.
+
+- McEwen LM, Goodman SJ, Kobor MS, Jones MJ. 2017. [The DNA Methylome: An Interface Between the Environment, Immunity, and Ageing](https://link.springer.com/chapter/10.1007/978-3-319-43365-3_3). The Ageing Immune System and Health. 35-52.
+
 
 You can also find my articles on <u><a href="https://scholar.google.ca/citations?user=nZTIGnoAAAAJ&hl=en">my Google Scholar profile</a>.</u>
