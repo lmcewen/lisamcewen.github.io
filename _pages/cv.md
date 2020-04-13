@@ -9,7 +9,7 @@ redirect_from:
 
 
 [Here is a PDF version of my
-CV](https://github.com/lmcewen/lmcewen.github.io/blob/master/files/McEwen_CV_NOV2019.pdf)
+CV](https://github.com/lmcewen/lmcewen.github.io/blob/master/files/MCEWEN_CV_2020April13_ext_mincontact.pdf)
 
-(Last updated on Nov. 2019)
+(Last updated: April 2020)
   
