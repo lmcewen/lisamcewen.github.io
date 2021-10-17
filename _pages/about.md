@@ -10,12 +10,19 @@ redirect_from:
 
 Hello! :)
 
-I am a Clinical Data Consultant currently working with the [Vancouver Island Health Authority](https://www.islandhealth.ca/). My role involves analyzing clinical information extracted from electronic health records to inform decision making. I primarily use SQL to query a data warehouse, and analyze/visualize the data in RStudio. I am a passionate R-user and teacher, fascinated by the endless options available in R for working with data from basic manipulations to elaborate dynamic visualizations with ShinyApps! Recently, I have  been appointed as an Adjunct Assistant Professor in [Health Information Science](https://www.uvic.ca/hsd/hinf/index.php) at the [University of Victoria](https://www.uvic.ca/). I am very much interested in using clinical data to provide meaningful insights that can contribute to better patient care.  
+I am a Data Consultant in the Health and Biological Sciences. My passion for data science started during my PhD at the University of British Columbia where I used R programming to analyze genomic data to drive my research in epigenetics. I have worked with a variety of data types ranging from clinical data extracted from millions of electronic health records to RNA sequencing of case/control studies. I thoroughly enjoy learning about and exploring new clinically-related datasets to provide meaningful insights for improving patient care.  
 
-## Research Interests:
-* Health Data Analytics
-* Data Mining and Machine Learning in Health Care
-* Decision Support Tools 
-* Electronic Health Records
-* Biomarkers of Aging and Disease
+## Education
+
+### Doctor of Philosophy in Medical Genetics (2018)
+* University of British Columbia, Vancouver, B.C.
+
+### Bachelor of Science in Biochemistry and Microbiology with 16-month Research Internship (2013)
+* University of Victoria, Victoria, B.C.
+
+## Skills
+* Programming lanugages: R, SQL, Python, Bash, Cerner Command Language
+* Tools: Markdown, LaTeX, Shiny, GitHub, MS Office Suite, Adobe Illustrator, PowerBI
+* Data Types: Transcriptomes (RNA Seq, Microarray), Epigenetics, SNP Genotyping, Electronic Health Records (Cerner)
+
 
