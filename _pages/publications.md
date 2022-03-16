@@ -35,6 +35,12 @@ Rep. (1):12123.
 
 ## Co-authored Contributions:
 
+- A Cardenas, S Ecker, RP Fadadu, K Huen, A Orozco, **LM McEwen**, HR Engelbrecht, N Gladish, MS Kobor, L Rosero-Bixby, WH Dow, DH Rehkopf. (2022). Epigenome-wide association study and epigenetic age acceleration associated with cigarette smoking among Costa Rican adults. Scientific reports, 12(1), 4277. https://doi.org/10.1038/s41598-022-08160-w
+
+- MG McGill, I Pokhvisneva, AS Clappison, **LM McEwen**, R Beijers, MS Tollenaar, H Pham, M Kee, E Garg, EJ de Mendonça Filho, N Karnani, PP Silveira, MS Kobor, C de Weerth, C., MJ Meaney, & KJ O'Donnell. (2022). Maternal Prenatal Anxiety and the Fetal Origins of Epigenetic Aging. Biological psychiatry, 91(3), 303–312. https://doi.org/10.1016/j.biopsych.2021.07.025
+
+- KA Dill-McFarland, SG König, F Mazel, DC Oliver, **LM McEwen**, KY Hong, SJ Hallam. (2021). An integrated, modular approach to data science education in microbiology. PLoS Computational Biology, 17(2), e1008661.  https://doi.org/10.1016/j.biopsych.2021.07.025
+
 - SA Hari Dass, K McCracken, I Pokhvisneva, LM Chen, E Garg, TTT Nguyen, Z Wang, B Barth, M Yaqubi, **LM McEwen**, JL MacIsaac, J Diorio, MS Kobor, KJ O'Donnell, MJ Meaney, PP Silveira. (2019). A biologically-informed polygenic score identifies endophenotypes and clinical conditions associated with the insulin receptor function on specific brain regions. EBioMedicine. 42:188-202.
   
 - LT Husquin, M Rotival, M Fagny, H Quach, N Zidane, **LM McEwen**, JL MacIsaac, MS Kobor, H Aschard, E Patin, L Quintana-Murci. (2018). Exploring the genetic basis of human population differences in DNA methylation and their causal impact on immune gene regulation. Genome Biol. 19(1):222. 
