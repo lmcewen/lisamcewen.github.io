@@ -10,7 +10,7 @@ redirect_from:
 
 Hello :)
 
-I am a Clinical Informatics Data Scientist with [Helix](https://www.helix.com/), an exciting company working to advancing genomic medicine and personalized healthcare. I absolutely love my job and working with data to drive research and inform decision making in healthcare. My passion for clinical data science started during my PhD at the University of British Columbia where I used R programming to analyze epigenetic data to drive my research in aging. I have experience with a variety of data types ranging from clinical data extracted from millions of patient electronic health records to RNA sequencing of case/control studies. I thoroughly enjoy learning about and exploring new datasets to provide meaningful insights.  
+I am a Clinical Informatics Data Scientist with [Helix](https://www.helix.com/), an exciting company working to advance genomic medicine and personalized healthcare. I absolutely love my job and working with data to drive research and inform decision making in healthcare. My passion for clinical data science started during my PhD at the University of British Columbia where I used R programming to analyze epigenetic data to drive my research in aging. I have experience with a variety of data types ranging from clinical data extracted from millions of patient electronic health records to RNA sequencing of case/control studies. I thoroughly enjoy learning about and exploring new datasets to provide meaningful insights.  
 
 ## Education
 
